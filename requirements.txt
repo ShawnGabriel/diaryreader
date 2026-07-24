@@ -1,0 +1,6 @@
+openai>=1.40.0        # OpenAI-compatible client; works with OpenRouter, vLLM, DashScope, etc.
+pdf2image>=1.17.0     # requires poppler-utils installed on the system (apt/brew install poppler-utils)
+openpyxl>=3.1.0
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+tqdm>=4.66.0
